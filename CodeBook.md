@@ -129,7 +129,7 @@ The work was divided in 4 sections:
  - UCI HAR Dataset/train/subject_test.txt
 * Combine all the test data sets into a new one called "test_data".
 
-###Instructions data Section
+###Instructions Section
 1. Merge the training and the test sets to create one data set called "merge_data".
 2. Extract only the measurements on the mean and standard deviation for each measurement to the data set called "subset_data".
 3. Use descriptive activity names to name the activities into a new data set called "data".
