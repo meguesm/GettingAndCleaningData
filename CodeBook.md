@@ -24,7 +24,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
   - > source("run_analysis.R")
 5. The output file is called tidy_data.txt and is located in the R working directory.
 
-##Description of the variables in the tiny_data.txt file
+##Description of the variables in the tidy_data.txt file
 
 ###Variables
 * "subject" - The ID of 30 volunteers within an age bracket of 19-48 years.
